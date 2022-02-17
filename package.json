@@ -13,11 +13,11 @@
     "ios/Plugin/",
     "HeapCapacitorBridge.podspec"
   ],
-  "author": "",
+  "author": "Doctari",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/heap.git"
+    "url": "git+https://github.com/doctariDev/heap-capacitor-bridge"
   },
   "bugs": {
     "url": "https://github.com/heap/issues"
