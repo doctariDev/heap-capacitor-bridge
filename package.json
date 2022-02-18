@@ -1,6 +1,6 @@
 {
   "name": "@doctaridev/heap-capacitor-bridge",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Heap Capacitor Bridge",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
