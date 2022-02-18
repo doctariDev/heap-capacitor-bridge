@@ -11,7 +11,7 @@
     "android/build.gradle",
     "dist/",
     "ios/Plugin/",
-    "HeapCapacitorBridge.podspec"
+    "DoctaridevHeapCapacitorBridge.podspec"
   ],
   "author": "Doctari",
   "license": "MIT",
